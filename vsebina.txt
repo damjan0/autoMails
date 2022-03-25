@@ -1,0 +1,10 @@
+﻿    <html>
+        <head></head>
+        <body>
+
+${INTRO}
+
+<p>Test sporocilo</p>
+
+        </body>
+    </html>
