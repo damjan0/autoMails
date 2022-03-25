@@ -1,4 +1,4 @@
-# Auto emails
+# Automating cold emails
 
 While working for a company as a sales assistant I noticed that I could automate the process of sending emails and thus save time using the cold email marketing strategy.
 I discovered there are a lot of tools that send all of the emails at once. However, most email services have algorithms that detect spam behaviour. In this case, sending a huge amount of emails at once. This results in many targeted emails that land in the spam folder. The company decided to send the emails manually to ensure that the recipient will receive the mail in his inbox. 
